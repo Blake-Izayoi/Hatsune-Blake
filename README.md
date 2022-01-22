@@ -1,0 +1,4 @@
+- Hi, I’m Hatsune Blake.
+- I’m interested in Hatsune Miku!
+- I’m currently learning lua.
+- You can reach me on Discord at Hatsune Blake#6770.
