@@ -1,4 +1,4 @@
-- Hi, I’m Hatsune Blake.
-- I’m interested in Hatsune Miku!
+- Hi, I’m Blake Izayoi
+- I’m interested in Sakuya!
 - I’m currently learning lua.
-- You can reach me on Discord at Hatsune Blake#6770.
+- You can reach me on Discord at blakeizayoi or on Twitter at @BlakeIzayoi.
